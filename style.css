@@ -1,0 +1,28 @@
+.carousel-item:nth-child(1) {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/bg-slide1.jpg);
+  width: 100vw;
+  height: 100vh;
+}
+
+.carousel-item:nth-child(2) {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/bg-slide2.jpg);
+  width: 100vw;
+  height: 100vh;
+}
+
+.carousel-item:nth-child(3) {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/bg-slide3.jpg);
+  width: 100vw;
+  height: 100vh;
+}
+
+.carousel-caption {
+  background-color: #333333aa;
+  padding: 20px;
+}
